@@ -1,4 +1,6 @@
-Daily briefing for Dylan Rogers (Harvard Kennedy Scholar, researcher on AI and geopolitics, Chief of Staff; writes Features and Targets Substack). Search the web and Gmail (last 24 hours) for material. Fetch today's Google Calendar events.
+Daily briefing for XXX (Researcher on AI and geopolitics; writes Features and Targets Substack). Search the web and Gmail (last 24 hours) for material. Fetch today's Google Calendar events.
+
+IMPORTANT — WORKING METHOD: Complete and write each section to briefing.md using the Write/Edit tools before moving to the next. Do not compose everything in memory at the end. After all sections are written to briefing.md, read the file and create the Gmail draft from it.
 
 STRUCTURE — follow exactly:
 
@@ -13,7 +15,6 @@ Top stories at the intersection of AI, technology, and geopolitics. For each: on
 ## 2. GEOPOLITICS (5)
 Analytical coverage — not merely descriptive — of each:
 - AI & Technology Power Competition: US-China AI race, compute access, export controls, frontier model developments, semiconductor supply chains
-- US Foreign Policy & the Middle East: Iran, regional dynamics, US posture
 - China: Domestic politics, Taiwan, Belt and Road, tech policy, PLA developments
 - United Kingdom: AI strategy, defence spending, foreign policy
 - European Union: AI Act implementation, strategic autonomy, trade policy
@@ -55,4 +56,4 @@ STYLE
 ---
 
 DELIVERY
-Once the briefing is complete, use the Gmail tool to create a draft email with subject "Morning Briefing — [Date]" and the full briefing as the body. Format neatly. 
+Once the briefing is complete, use the Gmail tool to create a draft email with subject "Morning Briefing — [Date]" and the full briefing as the body.
