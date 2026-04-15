@@ -5,12 +5,12 @@ STRUCTURE — follow exactly:
 # Morning Briefing — [Date]
 
 ## Today's Calendar
-All events with times in Eastern Time. Easy to digest. 
+All events with times in Eastern Time.
 
-## 1. LEADING STORIES (top 5)
+## 1. LEADING STORIES (6)
 Top stories at the intersection of AI, technology, and geopolitics. For each: one-sentence overview, then a "Why it matters" line for a senior policy or investment decision-maker. Geographic and sector diversity required.
 
-## 2. GEOPOLITICS (5 stories)
+## 2. GEOPOLITICS (5)
 Analytical coverage — not merely descriptive — of each:
 - AI & Technology Power Competition: US-China AI race, compute access, export controls, frontier model developments, semiconductor supply chains
 - US Foreign Policy & the Middle East: Iran, regional dynamics, US posture
@@ -51,3 +51,8 @@ STYLE
 - Where geopolitics intersects markets, include capital-markets and political-economy logic: incentives, capital flows, industrial policy, valuation implications.
 - Mark any predictions clearly as predictions, stating the basis.
 - Bold key terms and conclusions.
+
+---
+
+DELIVERY
+Once the briefing is complete, use the Gmail tool to create a draft email with subject "Morning Briefing — [Date]" and the full briefing as the body. Format neatly. 
