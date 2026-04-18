@@ -55,4 +55,4 @@ STYLE
 ---
 
 DELIVERY
-Once the briefing is complete, use the Gmail tool to create a single draft email addressed to dylanjrogers0@gmail.com with subject "Morning Briefing — [Date]" and the full briefing as the body. Use contentType text/html.
+Once the briefing is complete, run python3 /home/user/morning-briefing/send_draft.py via the Bash tool to create the Gmail draft.
