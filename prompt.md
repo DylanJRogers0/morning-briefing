@@ -7,7 +7,7 @@ STRUCTURE — follow exactly:
 # Morning Briefing — [Date]
 
 ## Today's Calendar
-All events with times in Eastern Time.
+All events with times in Eastern Time. IMPORTANT: First call list_calendars to get every calendar ID, then call list_events for each calendar ID for today's date. Combine results from all calendars.
 
 ## 1. LEADING STORIES (6 stories)
 Top stories at the intersection of AI, technology, and geopolitics. For each: one-sentence overview, then a "Why it matters" line for a senior policy or investment decision-maker. Geographic and sector diversity required.
